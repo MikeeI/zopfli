@@ -16,4 +16,4 @@ jobs:
     - name: make
       run: make
     - name: ls
-      run: ls -lah
+      run: ls -lah zopfli
